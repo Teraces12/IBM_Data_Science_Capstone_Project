@@ -1,8 +1,22 @@
+---
+title: "Winning Space Race with Data Science"
+author: "Dr LEBEDE  Ngartera"
+date: "12--23--2023"
+output:
+  html_document:
+    toc: yes
+    number_sections: yes
+  pdf_document:
+    toc: yes
+---
+<p align="center">
+  <img src="Screenshot 2024-01-02 155725.png"></b><br>
+</p>
+
+
 # :rocket: Applied Data Science Capstone
 This Capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
-<p align="center">
-  <img src="Screenshot 2024-01-02 155725.png">
-</p>
+
 
 ## :page_facing_up: Project Background
 
